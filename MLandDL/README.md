@@ -1,4 +1,4 @@
 # Machine Learning and Deep Learning
 
-Lecturer: [Adeline Paiement](https://www.compute.dtu.dk/english/research/cogsys/research/phd-projects/phd-franciszek-olaf-zdyb), MCF, Universite de Toulon
-Slides are [here](https://github.com/kabartay/MLSS-DTU-SCS-2018/blob/master/1b-Introduction_to_Auto-Sklearn/auto-sklearn.pdf).
+Lecturer: [Adeline Paiement](https://scholar.google.fr/citations?user=LvwLwnQAAAAJ&hl=fr), MCF, Universite de Toulon
+Slides are [here 1](https://github.com/kabartay/MLSS-UNISTRA-2019/blob/master/MLandDL/APaiement_MachineLearning_1.pdf) and [here 2](https://github.com/kabartay/MLSS-UNISTRA-2019/blob/master/MLandDL/APaiement_MachineLearning_2.pdf).
